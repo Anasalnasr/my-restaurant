@@ -1,0 +1,76 @@
+body{
+    background-color: black;
+  }
+  
+
+  #my-footer {
+  color: yellow;
+}
+footer {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    color: yellow;
+    background-color: black;
+    
+  }
+  body {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  header{
+    background-color: black;
+    color: yellow;
+  }
+  .NavBar {
+    background-color: #333;
+    overflow: hidden;
+    
+  }
+  .NavBar a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  } 
+  .NavBar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  h2 {
+    color: yellow;
+    font-size: 20px;
+    padding-bottom: 100;
+    padding-top: 100;
+    
+  }
+  
+  #logo {
+    width: 1000px;
+    height: auto;    
+  }
+  #sec{
+    position: absolute;
+    width: 200px;
+    height: auto;
+    padding-top: 35px;
+    right: 500px;
+    top: 150px;
+  }
+  #thi{
+    position: relative;
+    width: 200px;
+    height: auto;
+    right: 900px;
+    bottom: 200px;
+  }
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  .lastp {
+    margin-bottom: 20px;
+  }
