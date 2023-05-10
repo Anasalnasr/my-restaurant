@@ -86,3 +86,13 @@ footer {
     
 
   }
+  .logo1 {
+  display: inline-block;
+  width: 100px;
+  height: 80px;
+  
+    position: relative;
+    
+    right: -35%;
+  
+  }
