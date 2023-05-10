@@ -72,5 +72,27 @@ footer {
     padding: 0;
   }
   .lastp {
-    margin-bottom: 20px;
+    margin-bottom: 100px;
+    color: yellow;
+    padding-top: 15%;
+
+  }
+  
+  .lastp1 {
+    margin-bottom: 100px;
+    color: yellow;
+    padding-top: 15%;
+    font-size: 30px
+    
+
+  }
+  .logo1 {
+  display: inline-block;
+  width: 100px;
+  height: 80px;
+  
+    position: relative;
+    
+    right: -35%;
+  
   }
